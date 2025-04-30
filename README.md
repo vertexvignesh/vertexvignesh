@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 ### 🧠 About Me
 
 - 👋 I'm a tech enthusiast from Tamil Nadu, India.
