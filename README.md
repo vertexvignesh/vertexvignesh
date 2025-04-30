@@ -35,7 +35,7 @@
 
 <h2 align="center"> Softwares & Frameworks </h2>
 
-<p align="center"> 
+<p align="left"> 
   <img width="85" height="85" src="https://img.icons8.com/color/85/visual-studio-code-2019.png" alt="visual-studio-code-2019" title="Visual Studio Code" />
   <img width="85" height="85" src="https://img.icons8.com/color/85/android-studio--v2.png" alt="android-studio--v2" title="Android Studio"/>
   <img width="85" height="85" src="https://img.icons8.com/color/85/pycharm--v1.png" alt="pycharm--v1" title="PyCharm"/>
