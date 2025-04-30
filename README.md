@@ -34,9 +34,9 @@
 
 <h2 align="center">Technologies</h2>
 <p align="center">
-  <img  height="350" src="https://github.com/user-attachments/assets/2781c77f-a6a9-46dd-acbf-63d9cfd34db5"  title="3D printing" />
-  <img height="350" src="https://github.com/user-attachments/assets/6efe5145-ef04-400e-ac94-bbb24691bbfd" alt="hard-working"/>
-   <img height="350" src="https://github.com/user-attachments/assets/d27c7966-340a-4513-8700-b01a6deb7fd8"/>
+  <img  height="250" src="https://github.com/user-attachments/assets/2781c77f-a6a9-46dd-acbf-63d9cfd34db5"  title="3D printing" />
+  <img height="250" src="https://github.com/user-attachments/assets/6efe5145-ef04-400e-ac94-bbb24691bbfd" alt="hard-working"/>
+   <img height="250" src="https://github.com/user-attachments/assets/d27c7966-340a-4513-8700-b01a6deb7fd8"/>
 </p>
 
 <h2 align="center"> Softwares & Frameworks </h2>
